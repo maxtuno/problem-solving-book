@@ -11,6 +11,7 @@
 3. Diophantine Equations
     1. AIME 1989/9
     2. UC Berkeley Preliminary Exam 1983
+    3. Ljm. pp. 205
 4. Approximation Problems
 5. Real World Problems
 
