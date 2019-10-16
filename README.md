@@ -9,6 +9,8 @@
 2. NP-Hard problems
     1. Number Partitioning
 3. Diophantine Equations
+    1. AIME 1989/9
+    2. UC Berkeley Preliminary Exam 1983
 4. Approximation Problems
 5. Real World Problems
 
