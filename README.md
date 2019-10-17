@@ -6,6 +6,7 @@
 
 1. NP-Complete Problems
     1. Partition Problem
+    2. Composite Number
 2. NP-Hard problems
     1. Number Partitioning
 3. Diophantine Equations
