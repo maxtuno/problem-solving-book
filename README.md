@@ -8,6 +8,7 @@
     1. Partition Problem
     2. Composite Number
     3. Subset Product
+    4. Subset Sum
 2. NP-Hard problems
     1. Number Partitioning
 3. Diophantine Equations
