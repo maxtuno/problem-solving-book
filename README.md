@@ -1,6 +1,6 @@
 # Problem Solving: A Practical Workbook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxtuno/problem-solving-book/master)
+Try online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxtuno/problem-solving-book/master)
 
 ## A compendium and laboratory book of these 10 years of research ...
 
