@@ -7,8 +7,6 @@ https://github.com/maxtuno/peqnp-lib
 
 ## A compendium and laboratory book of these 10 years of research ...
 
-### Include a precompiled SLIME SAT Solver and PEQNP Library!
-
 1. NP-Complete Problems
     1. Partition Problem
     2. Composite Number
